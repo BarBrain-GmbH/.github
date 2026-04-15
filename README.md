@@ -1,23 +1,27 @@
-# BarBrain
+<p align="center">
+  <img src="BarBrain.svg" alt="BarBrain" height="120">
+</p>
 
-**The fastest inventory for food & beverage.**
+<h3 align="center">The fastest inventory for food & beverage</h3>
 
-[BarBrain](https://www.barbrain.com) is inventory management software built for the hospitality industry. We help bars, restaurants, hotels, and multi-location F&B operators cut inventory time by more than half — no manual data entry, no post-processing, no spreadsheets.
+<br>
 
-## What we do
+We're a SaaS company making inventory painless for the hospitality industry. We build tools that help bars, restaurants, and hotels count stock in half the time — no spreadsheets, no manual data entry, no post-processing headaches.
 
-- **Multi-device counting** — run parallel inventory counts across iOS and Android devices simultaneously
+## What we build 🍸
+
+- **Multi-device counting** — run parallel counts across iOS and Android devices at the same time
 - **30,000+ product catalog** — spirits, wines, beverages, food, and housekeeping supplies, ready to go
 - **Fill-level tracking** — capture opened and unopened units with precision
-- **Instant reporting** — get completed inventory reports the moment a count is done
+- **Instant reporting** — completed inventory reports the moment a count is done
 - **Multi-location management** — from a single bar to an enterprise portfolio
 
-## Who we serve
+## Who trusts us 🤝
 
-1,000+ customers across the hospitality industry, from independent bars to established brands like L'Osteria, Harry's Home Hotels, and Schloss Elmau.
+1,000+ customers across the hospitality industry, from independent bars to brands like L'Osteria, Harry's Home Hotels, and Schloss Elmau.
 
 ## Links
 
-- [Website](https://www.barbrain.com)
-- [iOS App](https://apps.apple.com/app/barbrain)
-- [Android App](https://play.google.com/store/apps/details?id=com.barbrain)
+🌐 [barbrain.com](https://www.barbrain.com)
+· 📱 [iOS](https://apps.apple.com/app/barbrain)
+· [Android](https://play.google.com/store/apps/details?id=com.barbrain)
