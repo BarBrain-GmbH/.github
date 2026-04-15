@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="BB_Blau_RGB.png" alt="BarBrain" height="140">
+  <img src="assets/BB_Blau_RGB.png" alt="BarBrain" height="140">
 </p>
 
 <h3 align="center">The fastest inventory for food & beverage</h3>
