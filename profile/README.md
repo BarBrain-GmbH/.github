@@ -26,7 +26,7 @@ We're a SaaS company making inventory painless for the hospitality industry. We 
 · 📱 [iOS](https://apps.apple.com/app/barbrain)
 · [Android](https://play.google.com/store/apps/details?id=com.barbrain)
 
-## Our API docs
+## Our API docs ⚙️
 
-· [BarBrain Inventory API](https://www.barbrain.com)
-· [BarBrain Recipe Management System API](https://www.barbrain.com)
+· [BarBrain Inventory API](https://barbrain-gmbh.github.io/barbrain-api-docs/#/)
+· [BarBrain Recipe Management System API](https://barbrain-gmbh.github.io/bb_recipes_api_docs/#/)
